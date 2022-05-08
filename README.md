@@ -1,6 +1,6 @@
 # Sophie Selk
 
-## B.B.A Business Analytics and Information Systems
+### B.B.A Business Analytics and Information Systems
 University of Iowa, Iowa City, IA
 Graduated: May 2022
 
