@@ -4,7 +4,7 @@
 ###University of Iowa 
 ##Graduated: May 2022
 
-[LinkedIn] (https://www.linkedin.com/in/sophie-selk)
+[LinkedIn](https://www.linkedin.com/in/sophie-selk)
 <!--
 **SophieSelk/SophieSelk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
