@@ -1,8 +1,8 @@
-#Sophie Selk
+# Sophie Selk
 
-###B.B.A Business Analytics and Information Systems
-###University of Iowa 
-##Graduated: May 2022
+## B.B.A Business Analytics and Information Systems
+## University of Iowa 
+### Graduated: May 2022
 
 [LinkedIn](https://www.linkedin.com/in/sophie-selk)
 <!--
